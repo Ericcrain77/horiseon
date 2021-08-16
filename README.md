@@ -7,7 +7,7 @@ In the css code, several elements needed consolidation in order to remove duplic
 
 The following image is a screenshot of the finished, corrected html file.
 <p align="center">
-  <img src="/assets/images/HTML_Screenshot.png" width="350" title="HTML Screenshot">
+  <img src="/assets/images/HTML Screenshot.png" width="350" title="HTML Screenshot">
 </p>
 
 The following is the url for the Horiseon landing page.
