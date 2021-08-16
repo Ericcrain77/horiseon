@@ -6,7 +6,7 @@ In the html code, there were several unnecessary classes assigned to elements th
 In the css code, several elements needed consolidation in order to remove duplicate lines of code. There were also a few bugs that needed to be corrected in order for the landing page to load correctly.
 
 The following image is a screenshot of the finished, corrected html file.
-![Code Screenshot](https://ericcrain77.github.io/horiseon/blob/main/HTML_Screenshot.jpg?raw=true)
+![Code Screenshot](./assets/images/HTML_Screenshot.jpg?raw=true "HTML Screenshot")
 
 The following is the url for the Horiseon landing page.
 https://ericcrain77.github.io/horiseon/
